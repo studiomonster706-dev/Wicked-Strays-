@@ -1,4 +1,4 @@
-# WICKED STRAYS 
+# WICKED STRAYS v1.1
 
 Bilingual GitHub Pages starter site using the supplied WICKED STRAYS logo.
 
@@ -23,4 +23,3 @@ Bilingual GitHub Pages starter site using the supplied WICKED STRAYS logo.
 - Add actual project artwork and project pages.
 - Add YouTube/social links when ready.
 - Consider adding a favicon using the logo.
-
